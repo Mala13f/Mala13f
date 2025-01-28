@@ -10,7 +10,7 @@ I bridge finance and technology by building data-driven solutions that optimize 
 
   - Passionate about open-source contributions to FinTech libraries and algorithmic trading frameworks.
 
-🌍 Community & Collaboration:
+# 🌍 Community & Collaboration:
 
   - Member of I³/NYC (Italian Innovators Initiative), advancing tech/finance cross-sector projects.
 
@@ -18,10 +18,10 @@ I bridge finance and technology by building data-driven solutions that optimize 
 
   - Trilingual (EN/IT/ES), enabling seamless collaboration in global, multicultural teams.
 
-💼 Career Vision:
+# 💼 Career Vision:
 Seeking roles in FinTech trading or quantitative analysis where I can apply ML expertise to enhance financial performance and innovate at the intersection of data and markets.
 
-🚀 Let’s Connect:
+# 🚀 Let’s Connect:
 Open to collaborating on cutting-edge projects, open-source initiatives, or research in AI-driven finance. Reach out to discuss ideas, datasets, or the future of tech in trading!
 
 <!---
