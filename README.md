@@ -1,6 +1,6 @@
-# 📊 MSc in Financial Technology & Analytics @ Stevens Institute of Technology | MSc in Bank, markets & Corporate Finance @ LIUC - Carlo Cattaneo Univerity
+# 📊 MSc in Financial Technology & Analytics @ Stevens Institute of Technology | MSc in Banks, markets & Corporate Finance @ LIUC - Carlo Cattaneo Univerity
 
-I bridge finance and technology by building data-driven solutions that optimize trading strategies, portfolio management, and financial decision-making. Leveraging machine learning and advanced analytics, I design scalable models to extract insights from complex datasets, with a focus on predictive analytics for FinTech innovation.
+Having the experience of being a Msc Candidate in Financial Technology and Analytics at Stevens Institute of Technology majoring in Machine Learning and MSc in Banks, Markets & Corporate Finance in LIUC, I am equally at ease with both technical and financial dimensions of a project.
 
 # 🔧 Technical Focus:
 
