@@ -1,4 +1,4 @@
-# 📊 Machine Learning Engineer | Data Scientist in FinTech MSc in Financial Technology & Analytics (Machine Learning) @ Stevens Institute of Technology | MSc in Banking & Corporate Finance @ LIUC
+# 📊 MSc in Financial Technology & Analytics @ Stevens Institute of Technology | MSc in Bank, markets & Corporate Finance @ LIUC - Carlo Cattaneo Univerity
 
 I bridge finance and technology by building data-driven solutions that optimize trading strategies, portfolio management, and financial decision-making. Leveraging machine learning and advanced analytics, I design scalable models to extract insights from complex datasets, with a focus on predictive analytics for FinTech innovation.
 
